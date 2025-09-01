@@ -1,0 +1,6 @@
+[submodule "docker-lfs-binutils"]
+	path = docker-lfs-binutils
+	url = git@github.com:old-home/docker-lfs-binutils.git
+[submodule "binutils"]
+	path = binutils
+	url = git@github.com:old-home/docker-lfs-binutils.git
